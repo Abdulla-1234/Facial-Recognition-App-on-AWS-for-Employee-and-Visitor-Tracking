@@ -84,15 +84,10 @@ Facial_recognition/
 3. **Access Logs**: View authentication logs in **DynamoDB**.
 
 ## Screenshots
-### Employee Registration
-<img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Employee%20Registration.png" alt="Employee Registration" width="300"/>
 
-### Authentication Success
-<img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Authentication%20Success.png" alt="Authentication Success" width="300"/>
-![Authentication Success](Facial_recognition/facial-recognition-app/public/authentication_success.png)
-
-### Unauthorized Access
-<img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Unauthorized%20Access.png" alt="Unauthorized Access" width="500"/>
+| Employee Registration | Authentication Success | Unauthorized Access |
+|---------------|----------------|----------------|
+| <img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Employee%20Registration.png" alt="Employee Registration" width="300"/> | <img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Authentication%20Success.png" alt="Authentication Success" width="300"/> | <img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Unauthorized%20Access.png" alt="Unauthorized Access" width="500"/> |
 
 ## Future Improvements
 - **Liveness Detection**: Prevent spoofing with real-time video verification.
