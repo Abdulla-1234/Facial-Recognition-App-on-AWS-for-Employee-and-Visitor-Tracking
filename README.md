@@ -1,4 +1,4 @@
-# Facial Recognition App on AWS
+# Facial Recognition App on AWS for Employee and Visitor Tracking
 
 ![Facial Recognition Banner](https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Facial%20Recognition%20App.png)
 
@@ -14,7 +14,7 @@ This project implements a **cloud-based facial recognition system** for employee
 - **Secure Access Control**: Ensures only authorized personnel enter premises.
 
 ## System Architecture
-![System Architecture](Facial_recognition/facial-recognition-app/public/system_architecture.png)
+<img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/System%20Architecture.png" alt="System Architecture" width="500"/>
 
 The system consists of four main layers:
 1. **Storage Layer**: Uses Amazon S3 for secure image storage.
@@ -85,13 +85,14 @@ Facial_recognition/
 
 ## Screenshots
 ### Employee Registration
-![Employee Registration](Facial_recognition/facial-recognition-app/public/employee_registration.png)
+<img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Employee%20Registration.png" alt="Employee Registration" width="300"/>
 
 ### Authentication Success
+<img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Authentication%20Success.png" alt="Authentication Success" width="300"/>
 ![Authentication Success](Facial_recognition/facial-recognition-app/public/authentication_success.png)
 
 ### Unauthorized Access
-![Unauthorized Access](Facial_recognition/facial-recognition-app/public/unauthorized_access.png)
+<img src="https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Unauthorized%20Access.png" alt="Unauthorized Access" width="500"/>
 
 ## Future Improvements
 - **Liveness Detection**: Prevent spoofing with real-time video verification.
@@ -100,14 +101,6 @@ Facial_recognition/
 
 ## Authors
 - [Mohammad Abdulla](https://www.linkedin.com/in/mohammad-abdulla-doodakula-8a3307258/)
-- C Mithul, B Somasekhar, M Hari Virinchi
-
-## License
-This project is licensed under the MIT License.
-
-## Citation
-If you use this project in your research, please cite our paper:
-> "Facial Recognition App on AWS for Employee and Visitor Tracking" - Published in **Amrita Vishwa Vidyapeetham, 2025**.
 
 ---
 **Feel free to fork, contribute, or raise issues for improvements! 🚀**
