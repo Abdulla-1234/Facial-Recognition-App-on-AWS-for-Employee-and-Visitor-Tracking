@@ -1,6 +1,6 @@
 # Facial Recognition App on AWS
 
-![Facial Recognition Banner](Facial_recognition/facial-recognition-app/public/banner.png)
+![Facial Recognition Banner](https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Facial%20Recognition%20App.png)
 
 ## Overview
 This project implements a **cloud-based facial recognition system** for employee authentication and visitor management using **Amazon Web Services (AWS)**. It leverages AWS services such as **Rekognition, Lambda, S3, DynamoDB, and API Gateway** to provide a scalable, real-time solution for identity verification.
