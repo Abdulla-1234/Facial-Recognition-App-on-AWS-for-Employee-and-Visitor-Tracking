@@ -84,16 +84,6 @@ Facial_recognition/
 3. **Access Logs**: View authentication logs in **DynamoDB**.
 
 ## Screenshots
-### Employee Registration
-![Employee Registration](https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Employee%20Registration.png)
-
-### Authentication Success
-![Authentication Success](https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Authentication%20Success.png)
-
-### Unauthorized Access
-![Unauthorized Access](https://github.com/Abdulla-1234/Facial-Recognition-App-on-AWS-for-Employee-and-Visitor-Tracking/blob/main/Images/Unauthorized%20Access.png)
-
-## Screenshots
 
 | Employee Registration | Authentication Success | Unauthorized Access |
 |---------------|----------------|----------------|
