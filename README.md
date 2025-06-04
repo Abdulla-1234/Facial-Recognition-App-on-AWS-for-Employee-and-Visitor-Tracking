@@ -98,4 +98,4 @@ Facial_recognition/
 - [Mohammad Abdulla](https://www.linkedin.com/in/mohammad-abdulla-doodakula-8a3307258/)
 
 ---
-**Feel free to fork, contribute, or raise issues for improvements! 🚀**
+**Feel free to fork, contribute, or raise issues for improvements! **
